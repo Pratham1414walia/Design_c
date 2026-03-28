@@ -64,7 +64,7 @@ Ex- Team ◇-------- Player (Hollow Diamond)
 if team is deleted , player can move to different team also
 
 
-4) Composition: B cannot exist without B
+4) Composition: B cannot exist without A
 
 Ex- House ◆-------- Room (Filled Diamond)
 if house is deleted room is also deleted
